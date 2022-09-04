@@ -1,0 +1,13 @@
+<p>
+میرے پیارے دوستوں ہم نے اردو فانٹس کے ساتھ ایک سیکشن لکھ لیا
+</p>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap" rel="stylesheet">
+<style>
+p{
+color: blue;
+font-family: 'Noto Nastaliq Urdu', serif;
+font-size:15px;
+}
+</style>
